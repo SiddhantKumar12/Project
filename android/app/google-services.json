@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190765753520",
+    "project_id": "interviewproject-c6d6d",
+    "storage_bucket": "interviewproject-c6d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190765753520:android:1cdd1f82d88addca3ec775",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6PEPoZDIn6v1al_EPs_Zg0CmVeBZsA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
